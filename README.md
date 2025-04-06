@@ -39,6 +39,14 @@ And then I merged the two scripts, and it worked!
 
 I'm really happy with this project! It was super fun to demo in class and everyone was willing to participate which was great. I'm starting to see that I really enjoy building pieces that encourage people to collaborate and work together to make the piece their own. I find it really fulfilling to present pieces like that and see how people engage with them.
 
+There are still a couple of things I'd like to improve, namely:
+
+* Reducing the lag between placing a puck and the sound playing, I think the way to do this would be interupts however that wouldn't be supported by Sonic Pi's system that queues sounds.
+* Creating a system for others to bring their own sounds: it'd be nice for others to be able to program their own pucks with a sound and then play that sound. I'm not quite sure how I would do this but we can encode data on the NFC tags.
+* Making the pucks 3D would be another thing I'd like to do - just like the Nintendo amiibos! I could 3D print these things.
+
+At the end of the day I'm pretty happy with this project! I'm going to keep the NFC reader and tags for future projects, I think they'll come in handy.
+
 ## Sources
 
 Thanks to these sources for helping me:
