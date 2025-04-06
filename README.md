@@ -37,7 +37,7 @@ And then I merged the two scripts, and it worked!
 
 ## Reflection
 
-
+I'm really happy with this project! It was super fun to demo in class and everyone was willing to participate which was great. I'm starting to see that I really enjoy building pieces that encourage people to collaborate and work together to make the piece their own. I find it really fulfilling to present pieces like that and see how people engage with them.
 
 ## Sources
 
