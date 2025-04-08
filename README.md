@@ -11,7 +11,7 @@ Everyone has their own set of sounds that they enjoy. I wanted to design somethi
 
 The pucks I designed were linked to a wide range of sounds, four different "moods", eight different "effects", and three commands. The commands were: speed up, slow down, and a random effect (eg. reverb). Each of them was a laser cut wooden circle with an NFC tag stuck on it. Check out the video for an example:
 
-_[insert video]_
+https://github.com/user-attachments/assets/cbffed20-b3e5-4ad9-a767-9763255367d5
 
 ## The process
 
